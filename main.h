@@ -1,11 +1,11 @@
-
+#ifndef MAIN_H
 #define MAIN_H
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdarg.h>
 #include <string.h>
-// #include <unistd.h>
+#include <unistd.h>
 
 /**
  * struct types - specifiier structure for printf
